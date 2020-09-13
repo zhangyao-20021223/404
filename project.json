@@ -1,0 +1,22 @@
+{
+	"description" : "这是一个休闲向的游戏。你可以通过单击来控制兔子的跳跃，躲避刺猬，吃掉胡萝卜，不要被大灰狼抓住哦qwq",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.6431372549019608 0.8745098039215686 0.7490196078431373"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Cartoon" ],
+	"title" : "快跑吧兔子！",
+	"type" : "web",
+	"visibility" : "public"
+}
